@@ -1,2 +1,2 @@
-# Machine-Learning-first-steps
+# Machine-Learning
 Machine Learning
