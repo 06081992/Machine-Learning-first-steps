@@ -1,3 +1,3 @@
 # Machine-Learning-first-steps
-Machine Learning
-print("This are my projects in ML")
+
+This are my projects in Machine Learning
